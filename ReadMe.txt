@@ -1,0 +1,1 @@
+This lab needs to be runned on a server, perferrabley WAMP, to process the json file. 

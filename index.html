@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Alligators</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+  </head>
+  <body>
+
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-color:#FFFFFF;">
+        <a class="navbar-brand" href="index.html">
+           <span class="lead">Adedoyin Odugbesan</span>
+        </a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        <h1 >Facts About Alligators</h1>
+
+        <div class="row"> 
+          <div class="cardWrapper col-sm-12 mb-3" id="cardDiv">
+            <div class="card" onkeypress="KeyPress(event)" onclick="flip()" tabindex="0"></div>
+          </div>
+        </div>
+
+        <div class="row " style="display: flex; align-items: center; justify-content: center;">
+
+          <!-- outline of things needed -->
+          <div class="preButton col-xs-4 text-center mt-3"> </div>
+
+          <div class="col-xs-4  text-center">
+            <button type="button" name="flipCard" id="flipCard" class="btn btn-outline-light btn-lg mt-3 flipcard bg-dark" onclick="flip()">Flip</button>
+          </div>
+
+          <div class="nextButton col-xs-4 text-center mt-3"> </div>
+
+        </div>
+      </div>
+    </main>  
+  </body>
+  <footer class="container-fluid pt-1 pb-2 bg-dark ">
+      <div class="row">
+        <div class="col-12 text-center text-white">
+          <p class="navbar-brand pl-3" href="#">Adedoyin Odugbesan &copy; 2019</p>
+        </div>
+      </div>
+  </footer>
+</html>

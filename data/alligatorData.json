@@ -1,0 +1,82 @@
+{"alligators":[
+	{
+		"sideOne": {
+					"alligatorName": "American Alligator (Alligator mississippiensis)",
+					"alligatorFact": "One of two living alligator species, the American Alligator has the strongest laboratory tested bite of any animal. The bite of this alligator measures over 9,400 newtons!"
+					},
+    	"sideTwo": {
+    				"url": "https://nationalzoo.si.edu/sites/default/files/styles/1400_scale/public/animals/americanalligator-003.jpg?itok=dSRgXWU-"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "Chinese Alligator (Alligator sinensis)",
+					"alligatorFact": "The second living alligator species,  Chinese Alligator's teet is not a sharp a the American Alligator, bu the shape of the teeth allow for better crushing."
+					},
+    	"sideTwo": {
+    				"url": "https://nationalzoo.si.edu/sites/default/files/styles/480x240_scale_and_crop/public/animals/chinesealligator-001.jpg?itok=NbSX6hRp&timestamp=1520538731"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "American Alligator (Alligator mississippiensis)",
+					"alligatorFact": "American alligators live about 50 years in the wild. After they are 4 feet long, alligators are safe from predators except humans and occasionally other alligators."
+					},
+    	"sideTwo": {
+    				"url": "https://nationalzoo.si.edu/sites/default/files/styles/1400_scale/public/animals/americanalligator-002.jpg?itok=VbkunnO6"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "Chinese Alligator (Alligator sinensis)",
+					"alligatorFact": "The Chinese alligator is a carnivorous animal that feeds on small creatures and animals. Pond snails and shellfish are a particular delicacy. Other sources of food include fish, mussels, birds, and rodents. Chinese alligators do not attack humans but they are still capable of dealing mortal wounds to people."
+					},
+    	"sideTwo": {
+    				"url": "https://live.staticflickr.com/2610/3882455591_f31ea04242_b.jpg"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "American Alligator (Alligator mississippiensis)",
+					"alligatorFact": "The American Alligator can weigh a mere 170 pounds all the way up to a hefty 800 pounds! They grow to approximately 13 feet long. These gators are native only to the United States and inhabit Florida, Louisiana, Georgia, Alabama, Mississippi, South Carolina, North Carolina, Texas, Oklahoma, and Arkansas."
+					},
+    	"sideTwo": {
+    				"url": "https://media.wired.com/photos/59326eb3edfced5820d105d7/master/w_1400,c_limit/Large_American_Alligator_2.jpg"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "Chinese Alligator (Alligator sinensis)",
+					"alligatorFact": "The Chinese alligator prefers slow-moving rivers, and swampy regions with low heights and freshwater sources. The Chinese alligator is categorized as a critically endangered species. In 1999, surveys showed that less than 200 Chinese alligators existed. Today, the few remaining are in agricultural ponds in the reservations."
+					},
+    	"sideTwo": {
+    				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvUtMqRn7VIjFwkiMIyTNE_4XXgerKkKC3inkmhoysBnzDi_sPw&s"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "American Alligator (Alligator mississippiensis)",
+					"alligatorFact": "American alligators have been observed using lures to hunt birds. They balance sticks and branches on their heads, attracting birds looking for nesting material."
+					},
+    	"sideTwo": {
+    				"url": "https://media.wired.com/photos/59326eb044db296121d6afc3/master/w_1746,c_limit/Gator-2.jpg"
+    	       	   }
+
+	},
+	{
+		"sideOne": {
+					"alligatorName": "Chinese Alligator (Alligator sinensis)",
+					"alligatorFact": "Adults are typically five feet long with an average mass of 80 pounds. In a few cases, some grow to seven feet long and may weigh up to 100 pounds. This alligator is one of a few crocodilians to be fully armored while its American counterpart is not."
+					},
+    	"sideTwo": {
+    				"url": "https://nationalzoo.si.edu/sites/default/files/styles/480x240_scale_and_crop/public/animals/chinesealligator-003.jpg?itok=utfzi8JJ&timestamp=1520538731"
+    	       	   }
+
+	}
+]}
